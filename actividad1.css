@@ -1,0 +1,108 @@
+body{
+background: yellow;
+}
+.cuadrito{
+	position: absolute;
+	left: 1%;
+	height: 90%;
+	top: 4%;
+	right: 1%;
+	background: url("fotom1.jpg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.titulo{
+	font-size: 39px;
+	color: black;	
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	right: 30%;
+	width: 32%;
+	height: 16%;
+	border: solid 5px black;
+	padding-left:25px;
+	padding-top:2px;
+	padding-right:25px;
+	box-sizing: border-box;
+	background: #F3F02E;
+}
+.parr1{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	width: 31%;
+	height: 27%;
+	background: #F3F02E;
+	border: solid 5px;
+}
+.ft1{
+	position: absolute;
+	top: 60%;
+	left: 4%;
+	width: 15%;
+	height: 29%;
+	background: url("fotom2.jpg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.parr2{
+	position: absolute;
+	top: 60%;
+	left: 21%;
+	width: 15%;
+	height: 29%;
+	background: #F3F02E;
+	border: solid 5px;
+}
+.cuadro2{
+	position: absolute;
+	top: 1%;
+	left: 58%;
+	height: 56%;
+	width: 40%;
+	border: solid 5px;
+	background: #F3F02E;
+}
+
+}
+.ft2{
+	position: absolute;
+	top: 26%;
+	left: 60%;
+	width: 15%;
+	height: 29%;
+	background: url("fotom3.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
+.ft3{
+	position: absolute;
+	top: 26%;
+	left: 80%;
+	width: 15%;
+	height: 29%;
+	background: url("fotom4.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+
+}
+.parr4{
+	position: absolute;
+	top: 60%;
+	left: 58%;
+	width: 20%;
+	height: 29%;
+	background: #F3F02E;
+	border: solid 5px black;
+}
+.ft4{
+	position: absolute;
+	top: 60%;
+	left: 83%;
+	width: 15%;
+	height: 29%;
+	background: url("fotom5.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
